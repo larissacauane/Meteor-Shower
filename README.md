@@ -6,12 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :computer: Projeto
 Este projeto exibe uma listagem com as chuvas de meteoros que podem ser vistas do ceú.
 
-**Projeto desenvolvido para praticar manipulação de string. Os seguintes métodos foram utilizados:**
-
-* **toUpperCase**
-* **split**
-* **replace**
-* **padEnd**
+**Projeto desenvolvido para praticar manipulação de string. 
 
 ## :sparkles: Imagens
  
