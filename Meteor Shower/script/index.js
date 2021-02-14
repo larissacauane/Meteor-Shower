@@ -28,7 +28,7 @@ function meteor_shower_list () {
         let peak_month = peak_month_day[0]
 
         let peak_month_name = ""
-        
+
         switch (peak_month) {
             case "Jan":     
                 peak_month_nameme = "January"   
@@ -84,5 +84,5 @@ function meteor_shower_list () {
     }
 }
 
-
 meteor_shower_list()
+
