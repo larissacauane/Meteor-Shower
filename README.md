@@ -9,4 +9,4 @@ Este projeto exibe uma listagem com as chuvas de meteoros que podem ser vistas d
 **Projeto desenvolvido para praticar manipulação de string.**
 
 ## :sparkles: Imagens
- 
+<img src="https://i.pinimg.com/originals/a9/9b/5a/a99b5a9f8284c2daab02ae2ed9720e42.png">
